@@ -65,19 +65,7 @@ export default function PricingPage() {
       delay: '200ms'
     },
     {
-      name: 'Enterprise',
-      price: '$99',
-      period: '/month',
-      description: 'For large teams and organizations',
-      features: [
-        'Unlimited everything',
-        'Unlimited users',
-        'Custom integrations',
-        'Dedicated account manager',
-        'Advanced security',
-        'SSO integration',
-        'Custom workflows',
-        'Priority implementation'
+      
       ],
       cta: 'Contact Sales',
       popular: false,
